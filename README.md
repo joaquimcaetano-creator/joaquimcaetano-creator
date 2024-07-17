@@ -1,5 +1,3 @@
-![Profile views](https://gpvc.arturio.dev/joaquimcaetano-creator)
-
 <h2 align="left">About me</h2>
 
 ###
