@@ -1,3 +1,9 @@
+<br clear="both">
+
+<img align="right" height="100" src="https://i.gifer.com/6md.gif"  />
+
+###
+
 <h2 align="left">About me</h2>
 
 ###
@@ -23,6 +29,12 @@
 ###
 
 <h2 align="left">Stats</h2>
+
+###
+
+<br clear="both">
+
+<img align="left" height="100" src="https://i.gifer.com/ZXut.gif"  />
 
 ###
 
@@ -55,9 +67,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
   </a>
 </div>
-
-###
-
-<p align="left">Hello World!!</p>
 
 ###
