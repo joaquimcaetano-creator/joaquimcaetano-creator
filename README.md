@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img align="right" height="100" src="https://i.gifer.com/6md.gif"  />
+<img align="right" height="100" src="https://i.gifer.com/XOsX.gif"  />
 
 ###
 
@@ -34,7 +34,7 @@
 
 <br clear="both">
 
-<img align="left" height="100" src="https://i.gifer.com/ZXut.gif"  />
+<img align="left" height="100" src="https://i.gifer.com/3nR6.gif"  />
 
 ###
 
