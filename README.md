@@ -1,9 +1,3 @@
-<br clear="both">
-
-<img align="right" height="100" src="https://i.gifer.com/XOsX.gif"  />
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
@@ -29,12 +23,6 @@
 ###
 
 <h2 align="left">Stats</h2>
-
-###
-
-<br clear="both">
-
-<img align="left" height="100" src="https://i.gifer.com/3nR6.gif"  />
 
 ###
 
@@ -66,6 +54,12 @@
   <a href="https://www.twitch.tv/valacfps" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.gifer.com/6os.gif"  />
 </div>
 
 ###
