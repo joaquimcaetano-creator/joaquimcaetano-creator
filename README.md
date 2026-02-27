@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">- C Developer<br>- Learning Java, Lua, and Python. Always striving to improve and expand my knowledge.<br>- Computer Science student</p>
+<p align="left">
+- 🎓 <b>Computer Science student</b> at Universidade Federal de Jataí (UFJ).<br>
+- 💻 <b>C Developer</b> with a focus on logic and back-end structures.<br>
+- 📚 <b>Learning:</b> Python, Java, Lua, and <b>MySQL</b> (specializing in Database Management and Automation).
+</p>
 
 ###
 
@@ -11,11 +15,13 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="45" alt="mysql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
 </div>
@@ -48,7 +54,7 @@
   <a href="https://www.instagram.com/ijoaquimcaetano/?next=%2F" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="joaquimpjneto@gmail.com" target="_blank">
+  <a href="mailto:joaquimpjneto@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.twitch.tv/valacfps" target="_blank">
